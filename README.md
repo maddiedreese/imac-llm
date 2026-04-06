@@ -5,8 +5,6 @@ Running a language model locally on a stock 1998 iMac G3 with 32 MB of RAM, Mac 
 **Prompt:** "The green goblin"  
 **Output:** "The green goblin had a big mop. She had a cow in the field too. I"
 
-![iMac G3 output](screenshots/output.jpg)
-
 ## What is this?
 
 This is a port of [Karpathy's llama2.c](https://github.com/karpathy/llama2.c) to classic Mac OS, targeting the original Bondi Blue iMac G3. It runs the 260K parameter TinyStories model (Llama 2 architecture) with a ~1 MB checkpoint entirely in local memory.
