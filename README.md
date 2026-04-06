@@ -176,7 +176,6 @@ imac_llm.r           — Mac resource file (SIZE resource for memory partition)
 - [EXO Labs — Llama on Windows 98](https://blog.exolabs.net/day-4/) — 260K model on a Pentium II (350 MHz, **128 MB RAM**, Windows 98). The inspiration for this project.
 - [Resistor Network — LLMs on PowerPC](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html) — 110M TinyStories on a PowerBook G4 (1.5 GHz, 1 GB RAM, Mac OS X).
 
-This project runs on **4x less RAM** than the Pentium II project and targets a harder platform (PowerPC big-endian, classic Mac OS, no terminal).
 
 ## Credits
 
