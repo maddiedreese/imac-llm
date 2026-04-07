@@ -18,8 +18,6 @@ The iMac has 32 MB of RAM — about 500x less than a modern laptop. The model ge
 3. **Runs transformer inference** — matrix multiplies, RoPE, attention, SwiGLU, the whole forward pass
 4. **Writes the continuation** to `output.txt`, which you open in SimpleText
 
-32 tokens generate in under a second on the 233 MHz G3.
-
 ## Hardware
 
 | Spec | Value |
